@@ -1,4 +1,4 @@
-大二课上做的一个小项目，不能使用框架，用servlet+MySQL+jsp写的一个网上书店，环境IDEA+tomcat+jdk9
+# **大二课上做的一个小项目，不能使用框架，用servlet+MySQL+jsp写的一个网上书店，环境IDEA+tomcat+jdk9**
 
 
 
