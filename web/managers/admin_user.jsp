@@ -10,7 +10,7 @@
 <html>
 <head>
   <meta charset="UTF-8"/>
-  <title>哲铭书店后台管理</title>
+  <title>书店后台管理</title>
   <link rel="stylesheet" type="text/css" href="css/common.css"/>
   <link rel="stylesheet" type="text/css" href="css/main.css"/>
 </head>
